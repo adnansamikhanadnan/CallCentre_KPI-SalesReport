@@ -301,7 +301,7 @@ kpi-dashboard
 
 ## 👨‍💻 Author
 
-**Adnan Hai**
+**Adnan Sami**
 
 B.Tech — Artificial Intelligence & Data Science
 
